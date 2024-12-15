@@ -86,4 +86,4 @@ User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 Developed by<br>
 Vinit Udasi<br>
 vinitudasi8888@gmail.com<br>
-http://vinitudasi.github.io/<br>
+
